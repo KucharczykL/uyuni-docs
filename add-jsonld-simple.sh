@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Simple script to add JSON-LD metadata attributes
 # Adds page-author, page-image, page-product-name, and page-product-version
